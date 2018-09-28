@@ -1,5 +1,1 @@
 adsafdsasafdsdfHello File abc
-<<<<<<< HEAD
-asaaaaaaaaaaaaaaaaaaaaaa
-=======
->>>>>>> bug
