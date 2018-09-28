@@ -3,3 +3,5 @@ adsafdsasafdsdfHello File abc
 asaaaaaaaaaaaaaaaaaaaaaa
 =======
 >>>>>>> bug
+
+Hello new line
